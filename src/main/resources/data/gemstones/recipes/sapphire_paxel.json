@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DJ",
+    "F  "
+  ],
+  "key": {
+    "#": {
+      "item": "gemstones:sapphire_sword"
+    },
+    "D": {
+      "item": "gemstones:sapphire_pickaxe"
+    },
+    "J": {
+      "item": "gemstones:sapphire_shovel"
+    },
+    "F": {
+      "item": "gemstones:sapphire_axe"
+    }
+  },
+  "result": {
+    "item": "gemstones:sapphire_paxel",
+    "count": 1
+  }
+}

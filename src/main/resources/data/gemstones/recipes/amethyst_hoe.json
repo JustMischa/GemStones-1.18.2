@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "/",
+    "/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "gemstones:amethyst_gem"
+    }
+  },
+  "result": {
+    "item": "gemstones:amethyst_hoe"
+  }
+}

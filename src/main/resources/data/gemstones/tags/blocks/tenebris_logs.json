@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "gemstones:tenebris_log",
+    "gemstones:tenebris_wood",
+    "gemstones:stripped_tenebris_log",
+    "gemstones:stripped_tenebris_wood"
+  ]
+}

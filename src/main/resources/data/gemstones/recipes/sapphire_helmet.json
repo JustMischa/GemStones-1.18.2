@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gemstones:sapphire_gem"
+    }
+  },
+  "result": {
+    "item":  "gemstones:sapphire_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:tenebris",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": -485105919,
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "gemstones:garden"
+    }
+  }
+}

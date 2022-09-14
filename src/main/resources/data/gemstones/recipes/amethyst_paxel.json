@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DJ",
+    "F  "
+  ],
+  "key": {
+    "#": {
+      "item": "gemstones:amethyst_sword"
+    },
+    "D": {
+      "item": "gemstones:amethyst_pickaxe"
+    },
+    "J": {
+      "item": "gemstones:amethyst_shovel"
+    },
+    "F": {
+      "item": "gemstones:amethyst_axe"
+    }
+  },
+  "result": {
+    "item": "gemstones:amethyst_paxel",
+    "count": 1
+  }
+}

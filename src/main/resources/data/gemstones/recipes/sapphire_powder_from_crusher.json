@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "gemstones:sapphire_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:sapphire_powder",
+    "count": 2
+  }
+}

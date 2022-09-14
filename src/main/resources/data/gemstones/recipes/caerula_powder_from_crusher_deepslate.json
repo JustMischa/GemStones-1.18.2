@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "gemstones:deepslate_caerula_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:caerula_powder",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "/",
+    "/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "gemstones:sapphire_gem"
+    }
+  },
+  "result": {
+    "item": "gemstones:sapphire_shovel"
+  }
+}

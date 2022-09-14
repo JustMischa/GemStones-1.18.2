@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "gemstones:palm_log",
+    "gemstones:palm_wood",
+    "gemstones:stripped_palm_log",
+    "gemstones:stripped_palm_wood",
+    "gemstones:palm_stairs",
+    "gemstones:palm_slab",
+    "gemstones:palm_fence",
+    "gemstones:palm_fence_gate",
+    "gemstones:tenebris_log",
+    "gemstones:tenebris_planks",
+    "gemstones:tenebris_wood",
+    "gemstones:stripped_tenebris_log",
+    "gemstones:stripped_tenebris_wood",
+    "gemstones:tenebris_stairs",
+    "gemstones:tenebris_slab",
+    "gemstones:tenebris_fence",
+    "gemstones:tenebris_fence_gate",
+    "gemstones:upgrade_table"
+  ]
+}

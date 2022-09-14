@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "gemstones:deepslate_ruby_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:ruby_powder",
+    "count": 2
+  }
+}

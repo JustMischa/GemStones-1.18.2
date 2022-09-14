@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_gold_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:gold_powder",
+    "count": 2
+  }
+}

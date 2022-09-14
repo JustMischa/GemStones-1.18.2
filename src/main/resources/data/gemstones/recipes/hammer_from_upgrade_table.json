@@ -1,0 +1,17 @@
+{
+  "type": "gemstones:upgrade_table",
+  "ingredients": [
+    {
+      "item": "gemstones:pearl"
+    },
+    {
+      "item": "gemstones:amethyst_gem"
+    },
+    {
+      "item": "gemstones:ruby_gem"
+    }
+  ],
+  "output": {
+    "item": "gemstones:hammer"
+  }
+}

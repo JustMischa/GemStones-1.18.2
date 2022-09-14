@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "gemstones:diamond_powder"
+    }
+  },
+  "result": {
+    "item": "gemstones:diamond_lumps"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "working=false": { "model": "gemstones:block/infester" },
+    "working=true": { "model": "gemstones:block/infester_working" }
+  }
+}

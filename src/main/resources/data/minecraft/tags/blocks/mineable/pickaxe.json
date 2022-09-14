@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "gemstones:ruby_ore",
+    "gemstones:sapphire_ore",
+    "gemstones:amethyst_ore",
+    "gemstones:caerula_ore",
+    "gemstones:deepslate_ruby_ore",
+    "gemstones:deepslate_sapphire_ore",
+    "gemstones:deepslate_amethyst_ore",
+    "gemstones:deepslate_caerula_ore",
+    "gemstones:end_amethyst_ore",
+    "gemstones:raw_caerula_block",
+    "gemstones:caerula_block",
+    "gemstones:ruby_block",
+    "gemstones:sapphire_block",
+    "gemstones:amethyst_block",
+    "gemstones:pearl_infested_obsidian",
+    "gemstones:infester",
+    "gemstones:crusher"
+  ]
+}

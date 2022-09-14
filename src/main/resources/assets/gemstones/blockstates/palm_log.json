@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gemstones:block/palm_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "gemstones:block/palm_log"
+    },
+    "axis=z": {
+      "model": "gemstones:block/palm_log_horizontal",
+      "x": 90
+    }
+  }
+}

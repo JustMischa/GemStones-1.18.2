@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:emerald_powder",
+    "count": 2
+  }
+}

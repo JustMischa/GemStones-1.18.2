@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DJ",
+    "F  "
+  ],
+  "key": {
+    "#": {
+      "item": "gemstones:ruby_sword"
+    },
+    "D": {
+      "item": "gemstones:ruby_pickaxe"
+    },
+    "J": {
+      "item": "gemstones:ruby_shovel"
+    },
+    "F": {
+      "item": "gemstones:ruby_axe"
+    }
+  },
+  "result": {
+    "item": "gemstones:ruby_paxel",
+    "count": 1
+  }
+}

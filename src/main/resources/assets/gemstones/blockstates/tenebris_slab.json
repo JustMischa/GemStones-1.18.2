@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gemstones:block/tenebris_slab"
+    },
+    "type=double": {
+      "model": "gemstones:block/tenebris_planks"
+    },
+    "type=top": {
+      "model": "gemstones:block/tenebris_slab_top"
+    }
+  }
+}

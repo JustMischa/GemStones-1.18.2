@@ -1,0 +1,14 @@
+{
+  "type": "gemstones:infester",
+  "ingredients": [
+    {
+      "item": "gemstones:pearl"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "output": {
+    "item": "gemstones:pearl_infested_obsidian"
+  }
+}

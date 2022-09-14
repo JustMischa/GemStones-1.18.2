@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "gemstones:ruby_ore",
+    "gemstones:sapphire_ore",
+    "gemstones:deepslate_ruby_ore",
+    "gemstones:deepslate_sapphire_ore"
+  ]
+}

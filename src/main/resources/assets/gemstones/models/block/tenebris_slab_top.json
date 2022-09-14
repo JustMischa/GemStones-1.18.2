@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "gemstones:block/tenebris_planks",
+    "top": "gemstones:block/tenebris_planks",
+    "side": "gemstones:block/tenebris_planks"
+  }
+}

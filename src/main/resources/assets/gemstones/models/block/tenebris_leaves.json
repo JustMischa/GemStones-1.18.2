@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "gemstones:block/tenebris_leaves"
+  }
+}

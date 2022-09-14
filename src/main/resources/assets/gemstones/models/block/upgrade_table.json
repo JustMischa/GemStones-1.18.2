@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"particle": "gemstones:block/tenebris_planks",
+		"north": "gemstones:block/upgrade_table_side",
+		"south": "gemstones:block/upgrade_table_side",
+		"east": "gemstones:block/upgrade_table_side",
+		"west": "gemstones:block/upgrade_table_side",
+		"up": "gemstones:block/upgrade_table_top",
+		"down": "gemstones:block/tenebris_planks"
+	}
+}

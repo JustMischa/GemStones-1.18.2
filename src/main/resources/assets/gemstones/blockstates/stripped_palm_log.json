@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gemstones:block/stripped_tenebris_palm_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "gemstones:block/stripped_palm_log"
+    },
+    "axis=z": {
+      "model": "gemstones:block/stripped_tenebris_palm_horizontal",
+      "x": 90
+    }
+  }
+}

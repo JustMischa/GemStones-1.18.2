@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gemstones:block/tenebris_log_top",
+    "side": "gemstones:block/tenebris_log"
+  }
+}

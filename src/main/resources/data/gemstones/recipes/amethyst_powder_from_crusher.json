@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "gemstones:amethyst_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:amethyst_powder",
+    "count": 2
+  }
+}

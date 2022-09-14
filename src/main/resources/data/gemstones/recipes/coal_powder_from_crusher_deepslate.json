@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_coal_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:coal_powder",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "gemstones:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_ore"
+    }
+  ],
+  "output": {
+    "item": "gemstones:diamond_powder",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gemstones:block/tenebris_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "gemstones:block/tenebris_log"
+    },
+    "axis=z": {
+      "model": "gemstones:block/tenebris_log_horizontal",
+      "x": 90
+    }
+  }
+}

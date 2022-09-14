@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "gemstones:palm_log",
+    "gemstones:palm_wood",
+    "gemstones:stripped_palm_log",
+    "gemstones:stripped_palm_wood"
+  ]
+}
